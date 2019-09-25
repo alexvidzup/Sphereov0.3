@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: cc1923c72a1ae3f42a07a59c685ba7a5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f5b4b220e753b004b8f7f64344fb07de, type: 3}
+  - {fileID: 12800000, guid: 43238ac0c27aa5d4c864cc180d0a8a8c, type: 3}
+  - {fileID: 12800000, guid: 3b9c691153c1c954f834273aadaf8f71, type: 3}
+  - {fileID: 12800000, guid: d5a0c9220507bb34caae997cc5f8429f, type: 3}
+  - {fileID: 12800000, guid: aeb979629effa0b40851bd50533e4d58, type: 3}
+  - {fileID: 12800000, guid: d99f53c28453b6144ad53f97afd59daf, type: 3}
+  - {fileID: 12800000, guid: 98a23af2990dc0d4e89c1fc4159f3aa9, type: 3}
+  - {fileID: 12800000, guid: f48f51d357de16a43ac87b0bf80d5dc9, type: 3}
+  - {fileID: 12800000, guid: b26f2cd3237fd8843bab2197c0de65fb, type: 3}
+  - {fileID: 12800000, guid: f1ee62344f560df4fb1431b20f0bc2f7, type: 3}
+  - {fileID: 12800000, guid: a0c7fe84ee6092a4e9c008c53ab921da, type: 3}
+  - {fileID: 12800000, guid: b08ada3664177d044ad6c483c6cc97fb, type: 3}
+  - {fileID: 12800000, guid: 38961356ba56e564097e1bd86d3c02f1, type: 3}
+  - {fileID: 12800000, guid: a33642863cad61f4a804aa34886e227f, type: 3}
+  - {fileID: 12800000, guid: 99e67ec64c2a5f845989df004b70d06f, type: 3}
+  - {fileID: 12800000, guid: 9fab4547556d2f940aee08db7ac2610e, type: 3}
+  - {fileID: 12800000, guid: a84ed3284a121574d938088eef746539, type: 3}
+  - {fileID: 12800000, guid: 434d6159244cda8458167f29b2e7a12d, type: 3}
+  - {fileID: 12800000, guid: 5e61f64a03ac4814c85030e9d0c41a79, type: 3}
+  - {fileID: 12800000, guid: cc69ef1c520a18b43a67176bc4e30e95, type: 3}
+  - {fileID: 12800000, guid: d4438b6dc0ff3724e94a895c10550d10, type: 3}
+  - {fileID: 12800000, guid: 60bfe77d97d08114bb214b2218079c5e, type: 3}
+  - {fileID: 12800000, guid: a6430dedf1bbb174291ffc4b5ee5d1cf, type: 3}
+  - {fileID: 12800000, guid: 8c818c3e25d232c4e8cb5818a36d1bac, type: 3}
+  - {fileID: 12800000, guid: b02a675eda9dcad4b8943ccd4d84a1c4, type: 3}
+  - {fileID: 12800000, guid: 8d92d58e9718c0040a70be462a6a12f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
